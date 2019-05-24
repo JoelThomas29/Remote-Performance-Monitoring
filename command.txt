@@ -1,0 +1,7 @@
+enable
+show processes cpu
+
+
+
+
+
